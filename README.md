@@ -1,6 +1,7 @@
 # Distribuidas2B
 
 - Cevallos Mateo
+- Valencia Sebastian
 - Valenzuela Michaelle
 
 1.- Diagrama
